@@ -34,8 +34,8 @@
     </modules>
 
     <properties>
-        <version.jboss.javaee6.bom>2.0.0.Final</version.jboss.javaee6.bom>
-        <seam.version>3.1.0.Beta3</seam.version>
+        <version.jboss.javaee6.bom>3.0.1.Final</version.jboss.javaee6.bom>
+        <seam.version>3.1.0.Final</seam.version>
 <!--         <arquillian.version>1.0.0.Alpha5</arquillian.version> -->
     </properties>
     <!-- Dependency management, including extra repositories if needed -->
